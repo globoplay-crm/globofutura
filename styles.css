@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'GloboFutura-Bold';
+  src: url('GloboFutura-Bold.eot?#iefix') format('embedded-opentype'),  url('GloboFutura-Bold.otf')  format('opentype'),
+	     url('GloboFutura-Bold.woff') format('woff'), url('GloboFutura-Bold.ttf')  format('truetype'), url('GloboFutura-Bold.svg#GloboFutura-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
